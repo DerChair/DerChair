@@ -7,7 +7,7 @@ I am a Data Engineer from Kazakhstan <img src="https://media.giphy.com/media/WUl
 
 - :zap: In my free time, i like to learn something new via communicating with a lots of people
 
-- 
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
