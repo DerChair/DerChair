@@ -1,7 +1,7 @@
 ### :man_technologist: About Me :
 I am a Data Engineer from Kazakhstan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-<img src="https://tenor.com/ru/view/akechi-goro-akechi-persona5-specialist-persona-gif-24986711" width="100"/>
+
 
 
 - :student: Currently i am a student at the "Al-Farabi Kazakh National University"
