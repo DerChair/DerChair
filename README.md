@@ -24,4 +24,4 @@ I am a Data Engineer from Kazakhstan <img src="https://media.giphy.com/media/WUl
 ---
 
 ### :fire: My Stats :
-![DerChair's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
+[![DerChair's GitHub stats](https://github-readme-stats.vercel.app/api?username=derchair)](https://github.com/anuraghazra/github-readme-stats)
